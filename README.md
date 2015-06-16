@@ -2,10 +2,7 @@
 
 ipK is a simple chat & talk client/server based java application.
 
-/*
- * CopyRight (c) 2000-2001 ipKangaroo
- *
- */
+2000-2001 ipKangaroo
 
 ipK version 5.2.2
 
@@ -23,12 +20,19 @@ NOTE:  in ipKtalk, use <Compatibility Mode> only if your are experiencing diffic
 :)
 
 Original Contributors:
+
 Daneyand Singley
+
 Evan Lerer
+
 Michael weakland
+
 ChiWei Yung
+
 Vivek Bedi
+
 Marie Alexander
+
 
 
 P.S.
@@ -38,4 +42,5 @@ Cheers!
 
 
 Daneyand "DJ" Singley
+
 daneyand@yahoo.com
